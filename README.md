@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/329ee8b9-8692-46d0-a258-55949283c537
 4. Profit
 
 
-Version 0.1:
+**Version 0.1:**
 
 https://github.com/user-attachments/assets/0321b48e-6db1-4e12-a2c8-e9fc3781c730
 
